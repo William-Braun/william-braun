@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently pursuing a Bachelor's degree in Computer Science at the University of Cincinnati
+My name is William, and I am currently pursuing a Bachelor's degree in Computer Science at the University of Cincinnati
 
 <!--
 **William-Braun/william-braun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
